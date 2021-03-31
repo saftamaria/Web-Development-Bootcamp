@@ -1,0 +1,27 @@
+
+body{
+   margin:0;
+   text-align: center;
+   font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+h1{
+    margin: 0px;
+    
+}
+
+.top-container{
+    background-color: #76d0e0;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  right: 20px;
+  top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+
+ 
+}
+
